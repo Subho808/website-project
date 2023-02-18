@@ -30,6 +30,10 @@
     margin-bottom: 20px;
 
 }
+#services .box img{
+    width: 40%;
+    height: auto;
+}
 
 /* Client section  */
 #clients{
